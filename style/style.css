@@ -61,6 +61,10 @@ header > p {
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 
+p {
+    margin-bottom: 50px;
+}
+
 nav {
     background-color: var(--cor5);
     padding: 10px;
